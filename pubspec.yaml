@@ -1,0 +1,35 @@
+name: flutter_app_camera
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  camerawesome: ^1.4.0
+  better_open_file: ^3.6.4
+  path_provider: ^2.1.1
+  firebase_core: ^2.16.0
+  firebase_storage: ^11.2.7
+  cloud_firestore: ^4.9.2
+  flutterfire_cli: ^0.2.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+  fonts:
+    - family: Mooli
+      fonts:
+        - asset: fonts/Mooli-Regular.ttf
+    - family: Quicksand
+      fonts:
+        - asset: fonts/Quicksand-Regular.ttf

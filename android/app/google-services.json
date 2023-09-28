@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "425860621066",
+    "project_id": "app-flutter-camera",
+    "storage_bucket": "app-flutter-camera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425860621066:android:7dd11f10828b9fbf2850f3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app_camera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqa_nZ-ndeJ10FTY-qV7_Ux0h4oIOrYns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
