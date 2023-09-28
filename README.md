@@ -1,16 +1,25 @@
-# flutter_app_camera
+# Flutter APP Camera
 
-A new Flutter project.
+Application in Flutter, using camerawesome and services of Firabase
 
-## Getting Started
+## Summary
+Flutter & Dart
 
-This project is a starting point for a Flutter application.
+  HomePage: List of pictures and button to take a new photo
+  CameraPage: Camera with Photo and Video(It can´t see in the gallery), filters, custom size, among     
+  others
 
-A few resources to get you started if this is your first Flutter project:
+## Packages:
+  - camerawesome: ^1.4.0
+  - better_open_file: ^3.6.4
+  - path_provider: ^2.1.1
+  - firebase_core: ^2.16.0
+  - firebase_storage: ^11.2.7
+  - cloud_firestore: ^4.9.2
+  - flutterfire_cli: ^0.2.7
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screenshot
+APP:
+![image](https://github.com/JulianSantiago24/flutter_app_camera/assets/76113377/109300b0-a288-425d-b2a3-a361037c563f)
+FIRABASE:
+![image](https://github.com/JulianSantiago24/flutter_app_camera/assets/76113377/cb3c47a7-3d79-42a1-bc5b-53381ca60b5a)
